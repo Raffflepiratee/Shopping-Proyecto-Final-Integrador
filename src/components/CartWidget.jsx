@@ -10,7 +10,7 @@ export default function CartWidget() {
       to="/cart"
       aria-label={`Carrito con ${totalQuantity} unidades`}
     >
-      <span className="cart-widget-label">Cart</span>
+      <span className="cart-widget-label">🛒 Carrito</span>
       <span className="cart-widget-count">{totalQuantity}</span>
     </NavLink>
   )

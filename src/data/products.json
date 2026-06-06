@@ -1,0 +1,142 @@
+[
+    {
+        "category": "Accesorios",
+        "description": "Mouse pad extendido con base antideslizante y superficie de precisión.",
+        "name": "Mouse Pad XL",
+        "price": 14999,
+        "stock": 18
+    },
+    {
+        "category": "Accesorios",
+        "description": "Soporte plegable y liviano para notebook de hasta 15 pulgadas.",
+        "name": "Stand para Notebook",
+        "price": 28999,
+        "stock": 12
+    },
+    {
+        "category": "Accesorios",
+        "description": "Teclado numérico inalámbrico compacto para trabajo y estudio.",
+        "name": "Keypad Inalámbrico",
+        "price": 19999,
+        "stock": 22
+    },
+    {
+        "category": "Accesorios",
+        "description": "Hub USB-C con puertos extra para periféricos y carga.",
+        "name": "Hub USB-C 5 en 1",
+        "price": 45999,
+        "stock": 10
+    },
+    {
+        "category": "Accesorios",
+        "description": "Base con iluminación para auriculares y orden del escritorio.",
+        "name": "Soporte para Headset RGB",
+        "price": 34999,
+        "stock": 14
+    },
+    {
+        "category": "Electronica",
+        "description": "Parlante portátil con conexión Bluetooth y batería de larga duración.",
+        "name": "Speaker Bluetooth Mini",
+        "price": 59999,
+        "stock": 9
+    },
+    {
+        "category": "Electronica",
+        "description": "Auriculares inalámbricos con cancelación de ruido activa.",
+        "name": "Auriculares ANC",
+        "price": 89999,
+        "stock": 16
+    },
+    {
+        "category": "Electronica",
+        "description": "Cámara web Full HD para videollamadas y streaming.",
+        "name": "Webcam Full HD",
+        "price": 64999,
+        "stock": 8
+    },
+    {
+        "category": "Electronica",
+        "description": "Cargador rápido de pared con doble puerto USB-C.",
+        "name": "Cargador Rápido 45W",
+        "price": 32999,
+        "stock": 20
+    },
+    {
+        "category": "Electronica",
+        "description": "Lampara de escritorio con brazo articulado y luz regulable.",
+        "name": "Lámpara LED Desk",
+        "price": 39999,
+        "stock": 11
+    },
+    {
+        "category": "Gaming",
+        "description": "Control inalámbrico compatible con PC y consola.",
+        "name": "Gamepad Pro",
+        "price": 74999,
+        "stock": 15
+    },
+    {
+        "category": "Gaming",
+        "description": "Mouse gamer con sensor de alta precisión y DPI ajustable.",
+        "name": "Mouse Gamer X1",
+        "price": 54999,
+        "stock": 13
+    },
+    {
+        "category": "Gaming",
+        "description": "Teclado mecánico con switches rojos e iluminación RGB.",
+        "name": "Teclado Mecánico RGB",
+        "price": 129999,
+        "stock": 7
+    },
+    {
+        "category": "Gaming",
+        "description": "Auriculares estéreo con micrófono desmontable y graves potentes.",
+        "name": "Headset Gamer Pro",
+        "price": 99999,
+        "stock": 10
+    },
+    {
+        "category": "Gaming",
+        "description": "Base de refrigeración con ventiladores dobles para notebook gamer.",
+        "name": "Cooler Pad Gamer",
+        "price": 41999,
+        "stock": 17
+    },
+    {
+        "category": "Otros",
+        "description": "Botella reutilizable térmica para uso diario.",
+        "name": "Botella Térmica 1L",
+        "price": 17999,
+        "stock": 25
+    },
+    {
+        "category": "Otros",
+        "description": "Organizador de escritorio con compartimentos múltiples.",
+        "name": "Organizer Desk",
+        "price": 23999,
+        "stock": 19
+    },
+    {
+        "category": "Otros",
+        "description": "Mochila urbana con compartimento acolchado para notebook.",
+        "name": "Mochila Urban Tech",
+        "price": 68999,
+        "stock": 9
+    },
+    {
+        "category": "Otros",
+        "description": "Combo de cuaderno y lapicera para trabajo o estudio.",
+        "name": "Kit Office Basic",
+        "price": 12999,
+        "stock": 30
+    },
+    {
+        "category": "Otros",
+        "description": "Almohadilla ergonómica para apoyar la muñeca durante largas jornadas.",
+        "name": "Wrist Rest Ergonómico",
+        "price": 15999,
+        "stock": 21
+    }
+]

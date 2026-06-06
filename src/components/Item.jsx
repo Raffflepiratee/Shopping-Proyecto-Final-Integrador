@@ -29,10 +29,10 @@ export default function Item(props) {
       {feedback ? <p className="item-feedback">{feedback}</p> : null}
       <div className="item-actions">
         <Link className="details-link" to={`/product/${props.id}`}>
-          Details
+          Detalles
         </Link>
         <button onClick={handleAddToCart} disabled={props.stock <= 0}>
-          {props.stock <= 0 ? "Sin stock" : "Add to Cart"}
+          {props.stock <= 0 ? "Sin stock" : "Agegar al carrito"}
         </button>
       </div>
     </div>

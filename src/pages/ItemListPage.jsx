@@ -47,7 +47,7 @@ export default function ItemListPage() {
           className={`category-button ${selectedCategory === "All" ? "active" : ""}`}
           onClick={() => setSelectedCategory("All")}
         >
-          All
+          Todo
         </button>
 
         {categories.map((cat) => (

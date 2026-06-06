@@ -5,7 +5,7 @@ export default function NavBar() {
   return (
     <nav className="navbar">
       <NavLink className="navbar-brand" to="/">
-        Home
+        Fire Store 🔥
       </NavLink>
 
       <div className="nav-links">
