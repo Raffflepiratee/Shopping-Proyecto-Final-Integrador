@@ -2,6 +2,8 @@
 
 Aplicacion web de e-commerce construida con React, Vite, React Router y Firebase. El objetivo es mostrar un catalogo de productos, ver el detalle de cada producto, agregar unidades al carrito y completar una compra que se guarda como orden en Firestore.
 
+La aplicacion desplegada se puede ver en: https://raffflepiratee.github.io/Shopping-Proyecto-Final-Integrador/
+
 ## Funcionamiento general
 
 La app inicia con una sesion anonima en Firebase Authentication. A partir de esa sesion se mantiene un carrito asociado al usuario actual dentro de Firestore, por lo que los productos agregados se sincronizan en tiempo real.
